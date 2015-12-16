@@ -1,0 +1,5 @@
+{	
+	"speed":0.01,
+	"size":{"width":8, "height":64},
+	"noise_tile_size":512
+}
