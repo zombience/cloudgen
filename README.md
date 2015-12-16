@@ -7,7 +7,7 @@ Putting it in public in case anyone finds it useful.
 
 * This should work on Windows, Linux, OSX. I have used it on Win10, Win8, OSX, and Raspbian (Raspberry Pi)
 
-* the included opc.py file has been modified for use with Python3. If you wish to use python 2.7, replace the opc.py file with the  file provided in the fadecandy example code. Incidentally, if you use Touch Designer, this opc.py file can be used to communicate with fadecandy server in Touch Designer. 
+* the included opc.py file has been modified for use with Python3. If you wish to use python 2.7, replace the opc.py file with the  file provided in the fadecandy example code. Incidentally, if you use Touch Designer, this opc.py file can be used to communicate with fadecandy server in Touch Designer088, as it uses Python3. 
 
 * You'll need to have the fadecandy server configured and running. There are several tutorials on how to get that started. I've linked one below. 
 
